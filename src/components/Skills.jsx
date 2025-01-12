@@ -14,7 +14,7 @@ const Skills = () => {
                 key={data.id}
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-bottom">
-              >
+              
                 <img src={`/asstes/${data.imageSrc}`} alt="" />
                 <h3>{data.title}</h3>
               </div>
