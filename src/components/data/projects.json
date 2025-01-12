@@ -1,0 +1,33 @@
+[
+  {
+    "key": 1,
+    "title": "ElvateSAP (FYP)",
+    "imageSrc": "https://blog.talview.com/hubfs/AI%20Agent%20in%20university.png",
+    "description": "This is a project made with MERN stack also used APIs for chatbot",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Quiz Game",
+    "imageSrc": "https://img.freepik.com/premium-photo/quiz-game-stage-interior-with-stands-spotlights-questions-digital-screen-modern_1197797-122489.jpg",
+    "description": "This Project is Developed by Using java, incorporating variety of Topics & questions.",
+    "demo": "https://www.example.com",
+    "source": "https://drive.google.com/drive/folders/1mzMEPhQAmf5ocARIHLGsODrNy6LYX-d_?usp=sharing"
+  },
+  {
+    "key": 3,
+    "title": "Sole & Styles E-commerce Application",
+    "imageSrc": "https://nmgprod.s3.amazonaws.com/media/files/77/79/777972aa95a5599e872d727616925b9d/cover_image_1698325190.jpeg.760x400_q85_crop_upscale.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "Weather Dashboard",
+    "imageSrc": "https://cdn.dribbble.com/userupload/17472074/file/original-2fa4544978caf0e297f32517bda03f8a.jpg?crop=317x221-2376x1766&format=webp&resize=400x300&vertical=center",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

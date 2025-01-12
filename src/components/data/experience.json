@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "role": "Competitive Coding AI Training Position",
+    "organisation": "Scale AI",
+    "startDate": "June, 2023",
+    "endDate": "September, 2023",
+    "location": "Remote (USA)",
+    "experiences": [
+      "Developed and optimized C++ programs for various competitive coding challenges."
+    ],
+    "imageSrc": "company/google.png"
+  }
+]
