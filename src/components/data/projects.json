@@ -20,7 +20,7 @@
     "imageSrc": "https://nmgprod.s3.amazonaws.com/media/files/77/79/777972aa95a5599e872d727616925b9d/cover_image_1698325190.jpeg.760x400_q85_crop_upscale.jpg",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Preety2001/Shoe-Universe-E_commerce-website-.git"
   },
   {
     "key": 4,
@@ -28,6 +28,6 @@
     "imageSrc": "https://cdn.dribbble.com/userupload/17472074/file/original-2fa4544978caf0e297f32517bda03f8a.jpg?crop=317x221-2376x1766&format=webp&resize=400x300&vertical=center",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Preety2001/Weather_Application.git"
   }
 ]

@@ -10,7 +10,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Preety",
-        "I'm MERnstack developer",
+        "I'm MERN stack developer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
